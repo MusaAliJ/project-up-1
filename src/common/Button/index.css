@@ -1,0 +1,7 @@
+.black-button{
+    float: right;
+    border: 2px solid;
+    padding: 3px 15px;
+    background: transparent;
+    cursor: pointer;
+}

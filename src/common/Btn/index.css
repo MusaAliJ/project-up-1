@@ -1,0 +1,8 @@
+.orange-btn{
+    border: 2px solid orange;
+    height: 26px;
+    color: orange;
+    background: transparent;
+    margin-top: 10px;
+    cursor: pointer;
+}
